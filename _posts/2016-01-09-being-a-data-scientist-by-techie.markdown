@@ -13,7 +13,7 @@ What is data scientist ?
 
 Data scientist is person who is good at programming, algorithms, maths & stats and good at using domain knowledge wisely over the data to envision products, make decisions using technology. 
 
-In short, Data Scientist = Programmer (Data Engineer) + Statistician (Data Analyst)
+In short, Beginner Data Scientist = Programmer (Data Engineer) + Statistician (Data Analyst)
 
 How to become Data Scientist ? 
 
