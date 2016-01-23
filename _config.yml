@@ -1,8 +1,8 @@
 # Site settings
 title: Manohar Amrutkar
-email: amrutkarDOTmanoharATgmail.com
+email: amrutkar.manohar@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blogging about data science..
+  Blogging about data science and related technologies.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://manoharaa.github.io" # the base hostname & protocol for your site
 twitter_username: _manoharaa
