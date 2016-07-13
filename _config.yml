@@ -8,5 +8,18 @@ url: "http://manoharaa.github.io" # the base hostname & protocol for your site
 twitter_username: _manoharaa
 github_username:  manoharaa
 
+## Build settings
+##markdown: kramdown
 # Build settings
-markdown: kramdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# will publish your post in that instant (keeps me bothering whay my recent post are not showing.)
+future: true
+
